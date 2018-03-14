@@ -1,0 +1,26 @@
+#clock{
+     font-size: 100px;
+     width: 400px;
+     height: 300px;
+     margin: 0 auto;
+     position: relative;
+     bottom: -20px;
+     color: black;
+     box-shadow: (10px, 5px, white);
+}
+ .name{
+     font-size: 100px;
+     width: 850px;
+     height: 300px;
+     margin: 0 auto;
+     text-align: center;
+}
+ body{
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-color: black;
+}
+ p{
+     color: black;
+     box-shadow: (10px, 5px, white);
+}
